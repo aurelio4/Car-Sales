@@ -1,0 +1,4 @@
+export default {
+  REMOVE_FEATURE: 'REMOVE_FEATURE',
+  ADD_FEATURE: 'ADD_FEATURE'
+}
